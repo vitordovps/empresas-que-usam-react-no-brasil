@@ -104,6 +104,10 @@ Redux, React Native, Styled Components, Jest
 São Paulo, SP
 Redux, React Native, Router, Hooks, Mongo DB
 
+[BH Servers](https://bhservers.com.br/)
+São Paulo, SP
+React Native, Redux
+
 [BIMachine](https://bimachine.com.br/)
 Lajeado, RS
 React Native, Redux, Router, Hooks, Typescript
